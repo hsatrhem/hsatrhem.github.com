@@ -1,0 +1,18 @@
+# Site settings
+title: logs
+description: ""
+baseurl: ""
+url: "http://hsatrhem.github.io"
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
