@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8009f8aa-5084-4be0-8b98-738ce749ecd5" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects.md" afterPath="$PROJECT_DIR$/logs/2018_projects.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_coursera_web.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_coursera_web.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_deepinfer.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_deepinfer.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_domain_adaptation.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_domain_adaptation.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_gbmos.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_information_thoery.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_information_thoery.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_intro_prob.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_intro_prob.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_it.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_it.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_it_book.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_it_book.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_linear_algebra.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_linear_algebra.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_liver.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_liver.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_lung.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_lung.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_neuroimage_segmentation.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_neuroimage_segmentation.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_pirads_pacs.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_pirads_pacs.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_pirads_train.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_pirads_train.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_prml.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_prml.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_qanat.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_qanat.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_rad_pca.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_rad_pca.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_tmi_needle.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/2018_tmi_ralp.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logs/projects/template.md" afterPath="$PROJECT_DIR$/logs/2018_projects/template.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/index.html" afterPath="$PROJECT_DIR$/_site/projects/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/2018_gbmos.html" afterPath="$PROJECT_DIR$/_site/projects/2018_gbmos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/projects/2018_tmi_needle.html" afterPath="$PROJECT_DIR$/_site/projects/2018_tmi_needle.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,71 +27,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018_projects.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logs/2018_projects.md">
+      <file leaf-file-name="2018_gbmos.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="13" column="76" lean-forward="false" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+            <state relative-caret-position="171">
+              <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018_tmi_ralp.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1482">
+              <caret line="116" column="3" lean-forward="false" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_prml.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_prml.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="91" column="13" lean-forward="false" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_deepinfer.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_deepinfer.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_coursera_web.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_coursera_web.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1577">
-              <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_qanat.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_qanat.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018_domain_adaptation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_domain_adaptation.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1577">
-              <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+            <state relative-caret-position="247">
+              <caret line="115" column="16" lean-forward="false" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -117,8 +60,8 @@
       <file leaf-file-name="2018_lung.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_lung.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="209">
+              <caret line="111" column="13" lean-forward="false" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -168,8 +111,11 @@
         <option value="$PROJECT_DIR$/logs/projects/2018_qanat.md" />
         <option value="$PROJECT_DIR$/logs/projects/2018_deepinfer.md" />
         <option value="$PROJECT_DIR$/logs/projects/2018_prml.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/logs/2018_projects.md" />
+        <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
+        <option value="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
+        <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -223,6 +169,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsatrhem.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hsatrhem.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2018_projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,18 +292,18 @@
       <updated>1518128739742</updated>
       <workItem from="1518128740871" duration="1895000" />
       <workItem from="1518131471296" duration="4537000" />
-      <workItem from="1518140622951" duration="5545000" />
+      <workItem from="1518140622951" duration="6362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11977000" />
+    <option name="totallyTimeSpent" value="12794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -442,15 +406,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/template.md" />
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md" />
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-410">
-          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_pirads_train.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-513">
@@ -539,22 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_lung.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_qanat.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -595,18 +534,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="13" column="76" lean-forward="false" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_lung.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="111" column="13" lean-forward="false" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_ralp.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="116" column="3" lean-forward="false" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="115" column="16" lean-forward="false" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
           <folding />
         </state>
       </provider>
