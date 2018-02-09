@@ -24,10 +24,11 @@ permalink: /projects/
 - [Prostatate PACS](/projects/2018_pirads_pacs)
 
 **Read & Exercises**
-- [PRML](/projects/2018_prml)
-- [Introduction to probability](/projects/2018_intro_prob)
-- [Linear Algebra](/projects/2018_la)
-- [Information Theory](/projects/2018_it_book)
+- [PRML, Bishop](/projects/2018_prml)
+- [Introduction to Probability, Blitzstein](/projects/2018_intro_prob)
+- [Linear Algebra, Strang](/projects/2018_la)
+- [Information Theory, Mackay](/projects/2018_it_book)
+- Deep Learning, Goodfellow
 
 **Pet projects**
 - [Qanat](/projects/2018_qanat)
@@ -36,3 +37,8 @@ permalink: /projects/
 - KTH (deadline: 3/22)
 - Write thesis (deadline: 11/31)
 - Defend (deadline: 12/31)
+
+**Learn more**
+- Deep leanring summer school videos
+- Coursera Andrew Ng deep learning courses
+- Coursera web development courses
