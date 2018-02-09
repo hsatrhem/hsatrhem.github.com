@@ -6,7 +6,7 @@ permalink: /projects/
 <a href="/">&#8249; back</a>
 
 **Theory**
-- [Information Thoery](/projects/2018_it/)
+- [Information Thoery](/projects/2018_it)
 
 **Publications**
 - [TMI: needle localization ](/projects/2018_tmi_needle) (deadline: <strike>01/31</strike> 02/28)
