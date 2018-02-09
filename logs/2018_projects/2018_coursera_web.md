@@ -5,7 +5,7 @@ permalink: /projects/2018_coursera_web
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Coursera Web development track]()
+Coursera Web development track
 
 
 <table>

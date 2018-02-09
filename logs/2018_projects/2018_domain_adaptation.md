@@ -5,7 +5,7 @@ permalink: /projects/2018_domain_adaptation
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Domain Adaptation]()
+Domain Adaptation
 
 
 <table>

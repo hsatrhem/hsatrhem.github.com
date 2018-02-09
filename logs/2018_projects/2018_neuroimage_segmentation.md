@@ -5,7 +5,7 @@ permalink: /projects/2018_neuro_segmentation
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Neuroimage: Segmentation of tumor/cns]()
+[Neuroimage: Segmentation of tumor/cns](https://goo.gl/72uTpi)
 
 
 <table>

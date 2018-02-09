@@ -5,7 +5,7 @@ permalink: /projects/2018_intro_prob
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Introduction to Probability]()
+Introduction to Probability
 
 
 <table>

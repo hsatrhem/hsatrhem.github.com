@@ -5,7 +5,7 @@ permalink: /projects/2018_it_book
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Information Thoery Book]()
+Information Thoery Book
 
 
 <table>

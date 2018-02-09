@@ -5,7 +5,7 @@ permalink: /projects/2018_liver
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Liver Project]()
+[Liver Project](https://goo.gl/nEikdx)
 
 
 <table>

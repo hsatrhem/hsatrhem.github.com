@@ -5,7 +5,7 @@ permalink: /projects/2018_la
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Linear Algebra]()
+Linear Algebra
 
 
 <table>
