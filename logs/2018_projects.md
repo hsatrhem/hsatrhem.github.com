@@ -35,6 +35,7 @@ permalink: /projects/
 
 **PhD**
 - KTH (deadline: 3/22)
+- WIN (deadline: 5/31)
 - Write thesis (deadline: 11/31)
 - Defend (deadline: 12/31)
 
