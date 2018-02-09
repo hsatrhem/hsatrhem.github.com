@@ -5,45 +5,31 @@ permalink: /projects/
 ---
 <a href="/">&#8249; back</a>
 
-**Feb 2018**
-- [TMI: needle localization ](/projects/2018_tmi_needle)
-- [Radiology: PCa detection](/projects/2018_rad_pca)
-
-**<strike>Jan 2018</strike>** (plan: , done: 23:00)
-- [Information Theory]() (plan: -, done: 2:00)
-- [TMI: needle localization ](/projects/2018_tmi_needle) (plan: -, done: 10:00)
-- [Radiology: PCa detection](/projects/2018_rad_pca) (plan: -, done: 4:00)
-- [Clinical Oncology: GBM Overall survival prediction]() (plan: -, done: 4:00)
-- [DeepInfer](/projects/2018_deepinfer) (plan: -, done: 1:00)
-- [Coursera Web Development]() (plan: -, done: 2:00)
-
-
-### Plan
 **Theory**
-- [Information Thoery]()
+- [Information Thoery](/projects/2018_it/)
 
 **Publications**
-- [TMI: needle localization ](/projects/2018_tmi_needle) (deadline: <strike>01/31/2018</strike> 02/28/2018)
+- [TMI: needle localization ](/projects/2018_tmi_needle) (deadline: <strike>01/31</strike> 02/28)
 - [Radiology: PCa detection](/projects/2018_rad_pca)
-- [Clinical Oncology: GBM Overall survival prediction]()
-- [Radiology: Lung Malignancy]() 
-- [TMI: RALP patient-specific models]()
-- [NeuroImage: Brain Tumor Segmentation, CNS Extraction]()
-- [Liver]()
-- [Domain Adaptation, few shots learning, MR parameters]()
+- [Clinical Oncology: GBM Overall survival prediction](/projects/2018_gbmos)
+- [Radiology: Lung Malignancy](/projects/2018_lung)
+- [TMI: RALP patient-specific models](/projects/2018_ralp)
+- [NeuroImage: Brain Tumor Segmentation, CNS Extraction](/projects/2018_neuro_segmentation)
+- [Liver](/projects/2018_liver)
+- [Domain Adaptation, few shots learning, MR parameters](/projects/2018_domain_adaptation)
 
 **Technical**
 - [DeepInfer](/projects/2018_deepinfer)
-- [PIRADS training]()
-- [Prostatate PACS]()
+- [PIRADS training](/projects/2018_pirads_train)
+- [Prostatate PACS](/projects/2018_pirads_pacs)
 
 **Read & Exercises**
-- [PRML]()
-- [Introduction to probability]()
-- [Linear Algebra]()
-- [Information Theory]()
+- [PRML](/projects/2018_prml)
+- [Introduction to probability](/projects/2018_intro_prob)
+- [Linear Algebra](/projects/2018_la)
+- [Information Theory](/projects/2018_it_book)
 
 **PhD**
-- KTH March 22
-- Write thesis November 31
-- Defend December 31
+- KTH (deadline: 3/22)
+- Write thesis (deadline: 11/31)
+- Defend (deadline: 12/31)

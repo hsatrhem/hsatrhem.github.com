@@ -1,11 +1,11 @@
 ---
 layout: post
 mathjax: true
-permalink: /projects/2018_prml
+permalink: /projects/2018_la
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Pattern Recognition and Machine Leanring]()
+[Linear Algebra]()
 
 
 <table>

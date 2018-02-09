@@ -5,7 +5,7 @@ permalink: /projects/2018_tmi_needle
 ---
 <a href="/projects/">&#8249; back</a>
 
-[TMI Needle]()
+[TMI Needle](https://goo.gl/3gGGfk)
 
 <table>
   <tbody>
@@ -45,7 +45,7 @@ permalink: /projects/2018_tmi_needle
       <td>s(h)</td>
     </tr>
     <tr>
-      <td>Jan18</td>
+      <td>Jan</td>
       <td></td><!--1-->
       <td></td><!--2-->
       <td></td><!--3-->
@@ -80,7 +80,7 @@ permalink: /projects/2018_tmi_needle
       <td>10:00</td><!--sum/h-->
     </tr>
      <tr>
-      <td>Feb18</td>
+      <td>Feb</td>
       <td></td><!--1-->
       <td>4</td><!--2-->
       <td></td><!--3-->

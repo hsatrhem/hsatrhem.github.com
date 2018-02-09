@@ -1,11 +1,11 @@
 ---
 layout: post
 mathjax: true
-permalink: /projects/2018_prml
+permalink: /projects/2018_coursera_web
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Pattern Recognition and Machine Leanring]()
+[Coursera Web development track]()
 
 
 <table>
@@ -80,7 +80,7 @@ permalink: /projects/2018_prml
       <td></td><!--31-->
       <td></td>
     </tr>
-    <tr>
+       <tr>
       <td>Feb</td>
       <td></td><!--1-->
       <td></td><!--2-->
@@ -115,6 +115,5 @@ permalink: /projects/2018_prml
       <td></td><!--31-->
       <td></td>
     </tr>
-
   </tbody>
 </table>

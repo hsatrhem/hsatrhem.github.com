@@ -47,7 +47,7 @@ Radiology PCa<br>
       <td>s(h)</td>
     </tr>
     <tr>
-      <td>Jan18</td>
+      <td>Jan</td>
       <td></td><!--1-->
       <td></td><!--2-->
       <td></td><!--3-->
@@ -82,7 +82,7 @@ Radiology PCa<br>
       <td></td><!--sum/h-->
     </tr>
      <tr>
-      <td>Feb18</td>
+      <td>Feb</td>
       <td></td><!--1-->
       <td></td><!--2-->
       <td></td><!--3-->
@@ -116,5 +116,6 @@ Radiology PCa<br>
       <td></td><!--31-->
       <td></td><!--sum/h--> 
       </tr>
+
   </tbody>
 </table>
