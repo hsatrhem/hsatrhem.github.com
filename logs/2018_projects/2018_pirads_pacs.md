@@ -5,7 +5,7 @@ permalink: /projects/2018_pirads_pacs
 ---
 <a href="/projects/">&#8249; back</a>
 
-[PIRADS PACS deployment]()
+[PIRADS PACS deployment](https://goo.gl/ENU1LE)
 
 
 <table>

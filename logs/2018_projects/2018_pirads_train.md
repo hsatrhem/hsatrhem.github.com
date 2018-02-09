@@ -5,7 +5,7 @@ permalink: /projects/2018_pirads_train
 ---
 <a href="/projects/">&#8249; back</a>
 
-[PIRADS online training system]()
+[PIRADS online training system](https://goo.gl/Y6EkTf)
 
 
 <table>
