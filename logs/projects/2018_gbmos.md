@@ -5,7 +5,7 @@ permalink: /projects/2018_gbmos
 ---
 <a href="/projects/">&#8249; back</a>
 
-[GBM OS Prediction]()
+[GBM OS Prediction](https://goo.gl/GY212Z)
 
 
 <table>

@@ -5,9 +5,7 @@ permalink: /projects/2018_rad_pca
 ---
 <a href="/projects/">&#8249; back</a>
 
-Radiology PCa<br>
-- submission deadline: 03/31/2018
-- [project]()
+[Radiology PCa](https://goo.gl/DApJDv)
 
 <table>
   <tbody>
@@ -65,11 +63,11 @@ Radiology PCa<br>
       <td></td><!--15-->
       <td></td><!--16-->
       <td></td><!--17-->
-      <td></td><!--18-->
+      <td>2:00</td><!--18-->
       <td></td><!--19-->
       <td></td><!--20-->
       <td></td><!--21-->
-      <td></td><!--22-->
+      <td>2:00</td><!--22-->
       <td></td><!--23-->
       <td></td><!--24-->
       <td></td><!--25-->
@@ -79,7 +77,7 @@ Radiology PCa<br>
       <td></td><!--29-->
       <td></td><!--30-->
       <td></td><!--31-->
-      <td></td><!--sum/h-->
+      <td>4:00</td><!--sum/h-->
     </tr>
      <tr>
       <td>Feb</td>
@@ -87,7 +85,7 @@ Radiology PCa<br>
       <td></td><!--2-->
       <td></td><!--3-->
       <td></td><!--4-->
-      <td></td><!--5-->
+      <td>1:00</td><!--5-->
       <td></td><!--6-->
       <td></td><!--7-->
       <td></td><!--8-->

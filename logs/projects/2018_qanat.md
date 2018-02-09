@@ -1,11 +1,11 @@
 ---
 layout: post
 mathjax: true
-permalink: /projects/2018_it
+permalink: /projects/2018_qanat
 ---
 <a href="/projects/">&#8249; back</a>
 
-[Information Theory]()
+[Qanat detection in corona images](https://goo.gl/5Zy7Xu)
 
 
 <table>
@@ -70,7 +70,7 @@ permalink: /projects/2018_it
       <td></td><!--21-->
       <td></td><!--22-->
       <td></td><!--23-->
-      <td>2:00</td><!--24-->
+      <td></td><!--24-->
       <td></td><!--25-->
       <td></td><!--26-->
       <td></td><!--27-->
@@ -78,17 +78,17 @@ permalink: /projects/2018_it
       <td></td><!--29-->
       <td></td><!--30-->
       <td></td><!--31-->
-      <td>2:00</td>
+      <td></td>
     </tr>
-    <tr>
+       <tr>
       <td>Feb</td>
       <td></td><!--1-->
       <td></td><!--2-->
       <td></td><!--3-->
       <td></td><!--4-->
-      <td>2:20</td><!--5-->
+      <td></td><!--5-->
       <td></td><!--6-->
-      <td>4:20</td><!--7-->
+      <td></td><!--7-->
       <td></td><!--8-->
       <td></td><!--9-->
       <td></td><!--10-->
@@ -115,6 +115,5 @@ permalink: /projects/2018_it
       <td></td><!--31-->
       <td></td>
     </tr>
-
   </tbody>
 </table>
