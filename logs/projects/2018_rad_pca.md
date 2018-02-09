@@ -1,11 +1,14 @@
 ---
 layout: post
 mathjax: true
-permalink: /log/template
+permalink: /projects/2018_rad_pca
 ---
-<a href="/log/">&#8249; back</a>
+<a href="/projects/">&#8249; back</a>
 
-Project Title<br>
+Radiology PCa<br>
+- submission deadline: 03/31/2018
+- [project]()
+
 <table>
   <tbody>
     <tr>
@@ -41,7 +44,7 @@ Project Title<br>
       <td>29</td>
       <td>30</td>
       <td>31</td>
-      <td>s</td>
+      <td>s(h)</td>
     </tr>
     <tr>
       <td>Jan18</td>
@@ -76,7 +79,42 @@ Project Title<br>
       <td></td><!--29-->
       <td></td><!--30-->
       <td></td><!--31-->
-      <td></td>
+      <td></td><!--sum/h-->
     </tr>
+     <tr>
+      <td>Feb18</td>
+      <td></td><!--1-->
+      <td></td><!--2-->
+      <td></td><!--3-->
+      <td></td><!--4-->
+      <td></td><!--5-->
+      <td></td><!--6-->
+      <td></td><!--7-->
+      <td></td><!--8-->
+      <td></td><!--9-->
+      <td></td><!--10-->
+      <td></td><!--11-->
+      <td></td><!--12-->
+      <td></td><!--13-->
+      <td></td><!--14-->
+      <td></td><!--15-->
+      <td></td><!--16-->
+      <td></td><!--17-->
+      <td></td><!--18-->
+      <td></td><!--19-->
+      <td></td><!--20-->
+      <td></td><!--21-->
+      <td></td><!--22-->
+      <td></td><!--23-->
+      <td></td><!--24-->
+      <td></td><!--25-->
+      <td></td><!--26-->
+      <td></td><!--27-->
+      <td></td><!--28-->
+      <td></td><!--29-->
+      <td></td><!--30-->
+      <td></td><!--31-->
+      <td></td><!--sum/h--> 
+      </tr>
   </tbody>
 </table>

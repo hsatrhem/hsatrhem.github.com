@@ -1,63 +1,11 @@
-<!DOCTYPE html>
-<html>
+---
+layout: post
+mathjax: true
+permalink: /projects/2018_tmi_needle
+---
+<a href="/projects/">&#8249; back</a>
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>logs</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="">
-    <link rel="canonical" href="http://localhost:4000/logs/2018_tmi_needle">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/main.css">
-
-    <!-- Google fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
-
-    <!-- Google tracking -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-46895817-2', 'auto');
-      ga('send', 'pageview');
-
-    </script>
-    
-</head>
-
-
-    <body>
-
-    <header class="site-header">
-
-  <div class="wrap title-wrap">
-    <a class="site-title" href="/">logs</a>
-  </div>
-
-</header>
-
-
-    <div class="page-content">
-      <div class="wrap">
-      <div class="post">
-
-  <header class="post-header">
-    <h1></h1>
-    <p class="meta"></p>
-  </header>
-
-  <article class="post-content">
-  <p><a href="/logs/">‹ back</a></p>
-
-<p>TMI Needle<br /></p>
-<ul>
-  <li>submission deadline: <strike>01/31/2018</strike> 02/28/2018</li>
-  <li><a href="">project</a></li>
-</ul>
+[TMI Needle]()
 
 <table>
   <tbody>
@@ -168,42 +116,3 @@
       </tr>
   </tbody>
 </table>
-
-  </article>
-
-</div>
-      </div>
-    </div>
-
-    <footer class="site-footer">
-
-  <div class="wrap">
-
-    <div class="footer-col-1 column">
-      <ul>
-        
-        
-        
-        <li>
-          <a href="mailto:"></a>
-        </li>
-      </ul>
-    </div>
-
-    <div class="footer-col-2 column">
-        
-    </div>
-
-    <div class="footer-col-3 column">
-      
-    </div>
-
-  </div>
-
-</footer>
-
-
-    <!-- mathjax -->
-    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    </body>
-</html>
