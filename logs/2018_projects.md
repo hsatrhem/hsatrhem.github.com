@@ -19,6 +19,7 @@ permalink: /projects/
 - [Domain Adaptation, few shots learning, MR parameters](/projects/2018_domain_adaptation) (deadline: 12/31)
 
 **Technical**
+- [SU](/projects/2018_su)
 - [DeepInfer](/projects/2018_deepinfer)
 - [PIRADS training](/projects/2018_pirads_train)
 - [Prostatate PACS](/projects/2018_pirads_pacs)
