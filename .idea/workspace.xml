@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8009f8aa-5084-4be0-8b98-738ce749ecd5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="8009f8aa-5084-4be0-8b98-738ce749ecd5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,12 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_tmi_needle.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="198">
+                <caret line="95" column="14" lean-forward="false" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -112,7 +123,6 @@
         <option value="$PROJECT_DIR$/logs/projects/2018_qanat.md" />
         <option value="$PROJECT_DIR$/logs/projects/2018_deepinfer.md" />
         <option value="$PROJECT_DIR$/logs/projects/2018_prml.md" />
-        <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_pirads_train.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_pirads_pacs.md" />
@@ -125,6 +135,7 @@
         <option value="$PROJECT_DIR$/logs/2018_projects.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_su.md" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
       </list>
     </option>
   </component>
@@ -296,12 +307,12 @@
       <workItem from="1518131471296" duration="4537000" />
       <workItem from="1518140622951" duration="7091000" />
       <workItem from="1518203708416" duration="1000" />
-      <workItem from="1518226118743" duration="1563000" />
+      <workItem from="1518226118743" duration="2190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15119000" />
+    <option name="totallyTimeSpent" value="15746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1963" y="-4" width="1877" height="1084" extended-state="6" />
@@ -461,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -593,6 +597,22 @@
         <state relative-caret-position="216">
           <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="95" column="14" lean-forward="false" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
