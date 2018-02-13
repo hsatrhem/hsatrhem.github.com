@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8009f8aa-5084-4be0-8b98-738ce749ecd5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-    </list>
+    <list default="true" id="8009f8aa-5084-4be0-8b98-738ce749ecd5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,12 +27,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_prml.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018_prml.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_prml.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="252">
                 <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_su.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_su.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="54">
+                <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_projects.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/2018_projects.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,7 +112,6 @@
         <option value="$PROJECT_DIR$/logs/projects/2018_prml.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
-        <option value="$PROJECT_DIR$/logs/2018_projects.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_pirads_train.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_pirads_pacs.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_it.md" />
@@ -98,6 +121,8 @@
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_domain_adaptation.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_prml.md" />
+        <option value="$PROJECT_DIR$/logs/2018_projects.md" />
+        <option value="$PROJECT_DIR$/logs/2018_projects/2018_su.md" />
       </list>
     </option>
   </component>
@@ -176,6 +201,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/logs/2018_projects" />
       <recent name="$PROJECT_DIR$/logs/projects" />
     </key>
   </component>
@@ -268,12 +294,12 @@
       <workItem from="1518131471296" duration="4537000" />
       <workItem from="1518140622951" duration="7091000" />
       <workItem from="1518203708416" duration="1000" />
-      <workItem from="1518226118743" duration="672000" />
+      <workItem from="1518226118743" duration="735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14228000" />
+    <option name="totallyTimeSpent" value="14291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1963" y="-4" width="1877" height="1084" extended-state="6" />
@@ -308,7 +334,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/projects/template.md" />
     <entry file="file://$PROJECT_DIR$/logs/projects/2018_information_thoery.md" />
     <entry file="file://$PROJECT_DIR$/logs/projects/2018_gbmos.md" />
     <entry file="file://$PROJECT_DIR$/logs/projects/2018_lung.md" />
@@ -455,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_deepinfer.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -543,6 +561,33 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="252">
             <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_su.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
