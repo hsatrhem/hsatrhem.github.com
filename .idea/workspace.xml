@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="115" column="33" lean-forward="false" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+            <state relative-caret-position="309">
+              <caret line="116" column="33" lean-forward="false" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -40,12 +40,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_lung.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018_lung.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_lung.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="114" column="19" lean-forward="true" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
+              <first_editor relative-caret-position="324">
+                <caret line="108" column="12" lean-forward="false" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -124,8 +124,8 @@
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_qanat.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_lung.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -299,12 +299,12 @@
       <workItem from="1518203708416" duration="1000" />
       <workItem from="1518226118743" duration="2190000" />
       <workItem from="1519263843595" duration="675000" />
-      <workItem from="1519345128187" duration="794000" />
+      <workItem from="1519345128187" duration="2064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21969000" />
+    <option name="totallyTimeSpent" value="23239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2160" y="128" width="1879" height="1095" extended-state="6" />
@@ -688,14 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="115" column="33" lean-forward="false" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_lung.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -705,11 +697,19 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="114" column="19" lean-forward="true" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
+          <first_editor relative-caret-position="324">
+            <caret line="108" column="12" lean-forward="false" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="116" column="33" lean-forward="false" selection-start-line="116" selection-start-column="33" selection-end-line="116" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
