@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8009f8aa-5084-4be0-8b98-738ce749ecd5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/logs/2018_projects/2018_lung.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_lung.md" />
-      <change beforePath="$PROJECT_DIR$/logs/2018_projects/2018_qanat.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_qanat.md" />
-      <change beforePath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
-      <change beforePath="$PROJECT_DIR$/logs/2018_projects/template.md" afterPath="$PROJECT_DIR$/logs/2018_projects/template.md" />
+      <change beforePath="$PROJECT_DIR$/logs/2018_projects/2018_it.md" afterPath="$PROJECT_DIR$/logs/2018_projects/2018_it.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,12 +43,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018_tmi_needle.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018_tmi_needle.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="288">
-                <caret line="128" column="10" lean-forward="false" selection-start-line="128" selection-start-column="10" selection-end-line="128" selection-end-column="10" />
+              <first_editor relative-caret-position="306">
+                <caret line="129" column="10" lean-forward="false" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -77,8 +73,21 @@
         <entry file="file://$PROJECT_DIR$/logs/2018_projects/template.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018_it.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_it.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="521">
-                <caret line="116" column="14" lean-forward="false" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+                <caret line="151" column="14" lean-forward="false" selection-start-line="151" selection-start-column="14" selection-end-line="151" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -140,13 +149,13 @@
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_su.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_rad_pca.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_prml.md" />
-        <option value="$PROJECT_DIR$/logs/2018_projects/2018_it.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_lung.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/logs/2018_projects/template.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_qanat.md" />
         <option value="$PROJECT_DIR$/logs/2018_projects/2018_tmi_needle.md" />
+        <option value="$PROJECT_DIR$/logs/2018_projects/2018_it.md" />
       </list>
     </option>
   </component>
@@ -324,12 +333,12 @@
       <workItem from="1519854094649" duration="1526000" />
       <workItem from="1520006931616" duration="599000" />
       <workItem from="1520606347397" duration="3000" />
-      <workItem from="1521838709000" duration="985000" />
+      <workItem from="1521838709000" duration="1051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26352000" />
+    <option name="totallyTimeSpent" value="26418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2160" y="128" width="1875" height="1092" extended-state="6" />
@@ -642,21 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_it.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-162">
-            <caret line="90" column="12" lean-forward="false" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_gbmos.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -678,22 +672,6 @@
         <state relative-caret-position="252">
           <caret line="142" column="16" lean-forward="false" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/2018_projects/template.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="69" column="14" lean-forward="false" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="521">
-            <caret line="116" column="14" lean-forward="false" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -739,8 +717,40 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="288">
-            <caret line="128" column="10" lean-forward="false" selection-start-line="128" selection-start-column="10" selection-end-line="128" selection-end-column="10" />
+          <first_editor relative-caret-position="306">
+            <caret line="129" column="10" lean-forward="false" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/template.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="69" column="14" lean-forward="false" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/2018_projects/2018_it.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="521">
+            <caret line="151" column="14" lean-forward="false" selection-start-line="151" selection-start-column="14" selection-end-line="151" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
