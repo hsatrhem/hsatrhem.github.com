@@ -19,7 +19,7 @@ permalink: /projects/
 1. [August 30, TMI, RALP patient-specific models](/projects/2018_ralp) (changed deadlines: <strike>6/30</strike>)
 1. [September 30, NeuroImage, Brain Tumor Segmentation, CNS Extraction](/projects/2018_neuro_segmentation) (changed deadlines: <strike>8/31</strike>)
 1. [October 30, Liver](/projects/2018_liver)
-1. [November 30, Write thesis]
+1. November 30, Write thesis
 1. [December 31, Domain Adaptation, few shots learning, MR parameters](/projects/2018_domain_adaptation) (changed deadlines: 12/31)
 1. [December 31, Defend]()
 
