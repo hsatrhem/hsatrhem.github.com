@@ -10,7 +10,7 @@ permalink: /projects/
 **Deadlines**
 1. [March 31, TMI, Needle localization](/projects/2018_tmi_needle) (passed deadlines: <strike>1/31</strike> 2/28)
 1. [March 31, KTH]() (passed deadlines: <strike>21/3</strike>)
-1. [April 7, AI in Cancer Imaging Review]
+1. [April 7, AI in Cancer Imaging Review]()
 1. [April 11, MIDL, Lung Cancer](/projects/2018_rad_pca) (passed deadline: <strike>3/31</strike>)
 1. [April 11, RSNA, Lung Cancer](/projects/2018_rad_pca) (passed deadline: <strike>3/31</strike>)
 1. [May 18, NIPS, Information Thoery](/projects/2018_it)
