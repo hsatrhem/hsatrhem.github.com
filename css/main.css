@@ -909,9 +909,9 @@ table {
 
 td, th {
     padding: 5px;
-    font-size: 12px;
+    font-size: 14px;
     border-bottom: 1px solid #ddd;
-    text-align: left;
+    text-align: center;
     vertical-align: middle;
 }
 
