@@ -399,7 +399,7 @@ a:visited {
 .post-content h6 {
     line-height: 1;
     font-weight: 300;
-    margin: 40px 0 20px;
+    margin: 20px 0 10px;
 }
 
 .post-content h2 {
@@ -908,8 +908,8 @@ table {
 }
 
 td, th {
-    padding: 10px;
-    font-size: 14px;
+    padding: 5px;
+    font-size: 12px;
     border-bottom: 1px solid #ddd;
     text-align: left;
     vertical-align: middle;
